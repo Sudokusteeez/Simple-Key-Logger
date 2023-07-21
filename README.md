@@ -7,6 +7,7 @@ Languages & Libraries Used
 Python
 Visual Studio Code
 Pynput & Logging Libraries
+
 Purpose
 The Keylogger project aims to implement keystroke logging functionality using the Pynput library. By capturing and logging user keystrokes, it facilitates debugging and security analysis. The logged data provides valuable insights into user interactions and behavior, aiding in system analysis and potential security assessments.
 
@@ -14,10 +15,12 @@ Key Features
 Accurate tracking and logging of user keystrokes.
 Captures all input activities and stores the data in a local .txt file.
 Provides a comprehensive view of user interactions for debugging and security analysis.
+
 Skills Gained
 Proficiency in implementing keystroke logging using the Pynput library.
 Understanding the implications and potential security aspects of keylogging.
 Knowledge of logging techniques for capturing and storing user data securely.
+
 Usage
 Clone the repository from the provided GitHub link: https://github.com/Sudokusteeez/.
 
